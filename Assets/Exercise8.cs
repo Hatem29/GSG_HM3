@@ -5,7 +5,7 @@ using System.Runtime.ConstrainedExecution;
 using TMPro;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class Playerstuff : MonoBehaviour
 {
 
     void Start()
